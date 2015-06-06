@@ -16,9 +16,9 @@
 * Fluid
 * SourceTree
 * GrandPerspective
-* iTerm*
+* iTerm
 * Jumpcut
-* NetNewsWire*
+* NetNewsWire
 * SuperDuper!*
 * VLC
 * Adium*
