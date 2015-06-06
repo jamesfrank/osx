@@ -22,17 +22,29 @@
 * SuperDuper!*
 * VLC
 * Adium*
+* Flux
 
 # Widgets to Install
 * Delivery Status
 * iCal Events
 * iStat Pro
 
-# Copy Preferences
+# Copy Application Support
 * ~/Library/Skype
-* ~/Library/Preferences/com.skype.skype.plist
 * ~/Library/Sublime Text 2
+* ~/Library/Cyberduck
+* ~/Library/Firefox
+* ~/Library/Fluid
+* ~/Library/iTerm
+* ~/Library/Jumpcut
+* ~/Library/NetNewsWire
+* ~/Library/SourceTree
+* ~/Library/SuperDuper!
+* ~/Library/Adium
+
+# Copy Preferences
 * ~/Library/Preferences/com.sublimetext.2.plist
+* ~/Library/Preferences/com.skype.skype.plist
 
 # Change Preferences
 ## Keyboard
