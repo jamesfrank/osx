@@ -31,7 +31,7 @@
 
 # Library
 
-# Application Support
+## Application Support
 * ~/Library/Skype
 * ~/Library/Sublime Text 2
 * ~/Library/Cyberduck
@@ -105,4 +105,6 @@
 
     defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool NO
 
-
+# iTunes
+* Copy ~/Music/iTunes
+* Copy ~/Library/Preferences/com.apple.iTunes.plist
