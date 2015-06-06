@@ -8,13 +8,30 @@
 * AppCleaner
 * SteerMouse
 * Simplenote (App Store)
-* 
+* Calca (App Store)
+* Xcode
+* Sublime Text 2 (modified)
+* Day One (App Store)
+* Facebook (custom)
+* Fluid
+* SourceTree
+* GrandPerspective
+* iTerm*
+* Jumpcut*
+* NetNewsWire*
+* SuperDuper!*
+* VLC
+
+# Widgets to Install
+* Delivery Status
+* iCal Events
+* iStat Pro
 
 # Copy Preferences
-* ~/Library/SizeUp
-* ~/Library/Preferences/com.irradiatedsoftware.SizeUp.plist
 * ~/Library/Skype
 * ~/Library/Preferences/com.skype.skype.plist
+* ~/Library/Sublime Text 2
+* ~/Library/Preferences/com.sublimetext.2.plist
 
 # Change Preferences
 ## Keyboard
@@ -43,3 +60,9 @@
 ### Cursor:
 * Tracking Speed: 1.05
 * Sensitivity: 275
+
+# Terminal Tweaks
+
+    defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool NO
+
+
