@@ -45,11 +45,30 @@
 # Copy Preferences
 * ~/Library/Preferences/com.sublimetext.2.plist
 * ~/Library/Preferences/com.skype.skype.plist
+* ~/Library/Preferences/com.adiumX.adiumX.plist
+* ~/Library/Preferences/com.amazon.SendToKindle.plist*
+* ~/Library/Preferences/com.blacey.SuperDuper!.plist
+* ~/Library/Preferences/com.fluidapp.Fluid.plist
+* ~/Library/Preferences/com.fluidapp.FluidApp.Facebook.plist
+* ~/Library/Preferences/com.fluidapp.FluidApp.Gmail.plist
+* ~/Library/Preferences/com.fluidapp.FluidApp.Google Voice.plist
+* ~/Library/Preferences/com.ranchero.NetNewsWire.plist
+* ~/Library/Preferences/com.torusknot.SourceTreeNotMAS.plist
+* ~/Library/Preferences/net.sf.Jumpcut.plist
+* ~/Library/Preferences/widget-com.iSlayer.iStatpro4.widget.plist
 
 # Change Preferences
 ## Keyboard
 * Key Repeat: Fast
 * Delay Until Repeat: Short
+
+## Security & Privacy
+### General
+* Require password *5 seconds* after sleep or screen saver begins
+
+### Firewall
+* Turn On Firewall
+* Enable Stealth Mode
 
 # Application Setup
 ## Firefox
