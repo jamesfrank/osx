@@ -88,6 +88,12 @@
 ## Simplenote
 * Log in
 
+## Mail
+* Create accounts
+
+## Contacts
+* Set up Google contact sync
+
 ## SteerMouse
 ### Buttons
 * Button 4: cmd + H
