@@ -29,7 +29,9 @@
 * iCal Events
 * iStat Pro
 
-# Copy Application Support
+# Library
+
+# Application Support
 * ~/Library/Skype
 * ~/Library/Sublime Text 2
 * ~/Library/Cyberduck
@@ -42,7 +44,10 @@
 * ~/Library/SuperDuper!
 * ~/Library/Adium
 
-# Copy Preferences
+## Fonts
+* ~/Library/Fonts/Inconsolata.otf
+
+## Preferences
 * ~/Library/Preferences/com.sublimetext.2.plist
 * ~/Library/Preferences/com.skype.skype.plist
 * ~/Library/Preferences/com.adiumX.adiumX.plist
@@ -56,6 +61,9 @@
 * ~/Library/Preferences/com.torusknot.SourceTreeNotMAS.plist
 * ~/Library/Preferences/net.sf.Jumpcut.plist
 * ~/Library/Preferences/widget-com.iSlayer.iStatpro4.widget.plist
+
+## QuickLook
+* /Library/QuickLook/QuickLookJSON.qlgenerator
 
 # Change Preferences
 ## Keyboard
