@@ -7,6 +7,8 @@
 * SizeUp
 * AppCleaner
 * SteerMouse
+* Simplenote (App Store)
+* 
 
 # Copy Preferences
 * ~/Library/SizeUp
@@ -22,3 +24,9 @@
 # Application Setup
 ## Firefox
 * Sign in to sync
+
+## 1Password
+* Set up sync
+
+## Simplenote
+* Log in
