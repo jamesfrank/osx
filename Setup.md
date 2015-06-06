@@ -78,6 +78,13 @@
 * Turn On Firewall
 * Enable Stealth Mode
 
+### Internet Accounts
+* Create Google account (mail, contacts, messages)
+
+### Accessibility
+#### Display
+* Reduce Transparency
+
 # Application Setup
 ## Firefox
 * Sign in to sync
@@ -87,12 +94,6 @@
 
 ## Simplenote
 * Log in
-
-## Mail
-* Create accounts
-
-## Contacts
-* Set up Google contact sync
 
 ## SteerMouse
 ### Buttons
