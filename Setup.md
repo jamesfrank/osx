@@ -17,7 +17,7 @@
 * SourceTree
 * GrandPerspective
 * iTerm*
-* Jumpcut*
+* Jumpcut
 * NetNewsWire*
 * SuperDuper!*
 * VLC
