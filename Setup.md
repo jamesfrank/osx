@@ -21,6 +21,7 @@
 * NetNewsWire*
 * SuperDuper!*
 * VLC
+* Adium*
 
 # Widgets to Install
 * Delivery Status
