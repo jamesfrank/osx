@@ -30,3 +30,16 @@
 
 ## Simplenote
 * Log in
+
+## SteerMouse
+### Buttons
+* Button 4: cmd + H
+* Button 5: ctl + Up Arrow
+
+### Wheel
+* Up: Down
+* Down: Up
+
+### Cursor:
+* Tracking Speed: 1.05
+* Sensitivity: 275
