@@ -115,3 +115,9 @@
 # iTunes
 * Copy ~/Music/iTunes
 * Copy ~/Library/Preferences/com.apple.iTunes.plist
+
+# CLI Stuff
+* Install dotfiles
+* Create certs
+* Copy ssh config
+* Install Homebrew
